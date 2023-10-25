@@ -1,0 +1,10 @@
+codecarbon
+pandas 
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+streamlit
+pillow
+altair
